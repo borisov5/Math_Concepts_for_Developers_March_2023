@@ -1,0 +1,6 @@
+- Work with numerical methods
+- Working with methods and mathematical principles for solving problems
+- Working with basic concepts of mathematics
+- Analysis, design and implementation of solutions
+- Documenting a problem solving process
+- Writing code for a scientific purpose
