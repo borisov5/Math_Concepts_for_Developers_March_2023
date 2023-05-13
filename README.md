@@ -1,6 +1,13 @@
-- Work with numerical methods
-- Working with methods and mathematical principles for solving problems
-- Working with basic concepts of mathematics
-- Analysis, design and implementation of solutions
-- Documenting a problem solving process
-- Writing code for a scientific purpose
+# Math concepts for developers
+![Math concepts for developers](Math-Concepts-for-Developers.jpg "Math concepts for developers")
+
+## Themes:
+
+1. High-school maths
+2. Basic algebra
+3. Linear algebra
+4. Calculus
+5. Probability and combinatorics
+6. Statistics
+7. Hypothesis testing
+
