@@ -10,4 +10,3 @@
 5. Probability and combinatorics
 6. Statistics
 7. Hypothesis testing
-
